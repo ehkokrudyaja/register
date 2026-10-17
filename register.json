@@ -1,15 +1,6 @@
-{
-  "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
-  "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
-    }
-  },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
+"openrepos.org": {
+  "awesome-project": {
+    "repo": "https://github.com/ehkokrudyaja/JFKGDPS/tree/main",
+    "target": "ehkokrudyaja.github.io"
+  }
 }
